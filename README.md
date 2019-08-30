@@ -6,10 +6,10 @@ Create your dream team from full NBA roster. Users can save players onto Firebas
 ## Screen Shots
 
 Landing Page
-![Screen shot](/assets/images/nbateam.png)
+![Screen shot](/images/nbateam.png)
 
 Add Player
-![Screen shot2](/assets/images/nbascreenplayer.png)
+![Screen shot2](/images/nbascreenplayer.png)
 
 # Technologies 
 
@@ -25,4 +25,4 @@ Add Player
 
 **Spencer Rose and Lara Bergerson** - /Materialize/HTML/CSS/Frontend Visual Design - 
 
-**Sung Lee and Rajiv Tatineni** - /FirebaseAuthentication/NPM Packages/Logic and design/Backend API and Javascript 
+**Sung Lee and Rajiv Tatineni** - /Firebase Authentication/NPM Packages/Logic and design/Backend API and Javascript 
