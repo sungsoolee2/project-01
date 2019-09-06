@@ -3,7 +3,7 @@ Create your dream team from full NBA roster. Users can save players onto Firebas
 
 [Deployed Github Link](https://sungsoolee2.github.io/project-01/)
 
-[Demo of NBA app](https://drive.google.com/open?id=1vaf9I-7NQaNQpfeEuxQY5P9y-O_tfJ-t)
+[Demo NBA-Dream-Team-Builder](https://drive.google.com/open?id=1SgVplw4lab7C613eOn6gpeG1jHmacWaM)
 
 
 ## Screen Shots
